@@ -1,0 +1,25 @@
+{
+  "name": "kraft-api",
+  "version": "1.0.0",
+  "description": "This is the API for the Kraft",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arya-aag/kraft-api.git"
+  },
+  "author": "Arya Adarsha Gautam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arya-aag/kraft-api/issues"
+  },
+  "homepage": "https://github.com/arya-aag/kraft-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2",
+    "request": "^2.85.0"
+  }
+}
